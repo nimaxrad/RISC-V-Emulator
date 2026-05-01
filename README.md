@@ -5,10 +5,12 @@ This project implements a RISC-V disassembler and emulator in C. It supports dec
 ## Project Structure
 <img src="images/sc.png" width="500">
 <br>
+
 ## RISCV supported instructions
 <img src="images/RISCV.png" width="500">
 <br>
 
+## Project files
 ```
 ├── part1.c              # Disassembler implementation
 ├── part2.c              # Emulator implementation
