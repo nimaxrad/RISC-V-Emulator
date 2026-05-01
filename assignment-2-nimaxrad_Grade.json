@@ -1,0 +1,75 @@
+{
+  "rpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "rpart2": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart1": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ipart1": {
+    "mark": 24,
+    "comment": "Program ran and output matched."
+  },
+  "ipart2": {
+    "mark": 24,
+    "comment": "Program ran and output matched."
+  },
+  "spart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "spart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "sbpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "sbpart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "upart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "upart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ujpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ujpart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "lswcpart1": {
+    "mark": 30,
+    "comment": "Program ran and output matched."
+  },
+  "lswcpart2": {
+    "mark": 0,
+    "comment": "Program did not run successfully. It either did not build or exited with error code 0"
+  },
+  "allpart1": {
+    "mark": 60,
+    "comment": "Program ran, but output did not match. see log file"
+  },
+  "allpart2": {
+    "mark": 90,
+    "comment": "Program ran and output matched."
+  },
+  "userid": "GithubID:assignment-2-nimaxrad"
+}

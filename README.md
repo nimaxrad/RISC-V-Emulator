@@ -1,2 +1,1 @@
-# RISC-V-Emulator
-This emulator is able to execute a subset of the RISC-V ISA. Provided the machinery to decode, it executes a couple dozen RISC-V instructions.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NZ0QLx6m)
