@@ -6,8 +6,9 @@ This project implements a RISC-V disassembler and emulator in C. It supports dec
 <img src="images/sc.png" width="500">
 <br>
 ## RISCV supported instructions
-<img src="images/RISCV.png">
+<img src="images/RISCV.png" width="500">
 <br>
+
 ```
 ├── part1.c              # Disassembler implementation
 ├── part2.c              # Emulator implementation
