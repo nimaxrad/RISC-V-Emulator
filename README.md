@@ -4,7 +4,8 @@ This project implements a RISC-V disassembler and emulator in C. It supports dec
 
 ## Project Structure
 <img src="images/screenshot.png" width="500">
-.
+
+```
 ├── part1.c              # Disassembler implementation
 ├── part2.c              # Emulator implementation
 ├── riscv.c              # Main driver and program loader
@@ -17,20 +18,23 @@ This project implements a RISC-V disassembler and emulator in C. It supports dec
 ├── scripts/
 ├── install-cunit.sh
 ├── Makefile
-
+```
 ## Installation & Build
 
 Install dependencies:
+```
     bash ./install-cunit.sh
-
+```
 Compile:
+```
     make riscv
-
+```
 Run:
+```
     ./riscv
-
+```
 ## Running
-
+```
 Disassemble:
     ./riscv -d ./code/input/R/R.input
 
@@ -39,25 +43,25 @@ Run with trace:
 
 Run full execution:
     ./riscv -t -r -e ./code/input/simple.input
-
+```
 ## Testing
-
+```
 Unit tests:
     touch test_utils.c
     make test-utils
 
 Full tests:
     bash ./scripts/localci.sh
-
+```
 ## Command Options
-
+```
 -d  Disassemble
 -t  Trace execution
 -r  Print registers
 -i  Interactive mode
 -e  Execute to end
 -v  Initialize registers
+```
 
-
-- Only modify required files
-- Do not commit generated outputs
+## Author
+Ben Salehirad
