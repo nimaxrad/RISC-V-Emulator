@@ -3,7 +3,7 @@
 This project implements a RISC-V disassembler and emulator in C. It supports decoding machine instructions and executing them with optional tracing and register inspection.
 
 ## Project Structure
-<img src="images/screenshot.png" width="500">
+<img src="images/sc.png" width="500">
 
 ```
 ├── part1.c              # Disassembler implementation
