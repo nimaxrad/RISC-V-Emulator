@@ -70,4 +70,4 @@ Full tests:
 ```
 
 ## Author
-Ben Salehirad
+Nima Salehirad
