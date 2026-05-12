@@ -1,6 +1,6 @@
 # RISC-V Emulator
 
-This project implements a RISC-V disassembler and emulator in C. It supports decoding machine instructions and executing them with optional tracing and register inspection.
+This project implements a RISC-V disassembler and emulator in C. It supports decoding machine instructions and executing them with optional tracing and register inspection. Tracing allows for an in-depth look into how each intruction affects registers.
 
 ## Project Structure
 <img src="images/sc.png" width="500">
